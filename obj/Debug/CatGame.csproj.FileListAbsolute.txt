@@ -1,0 +1,10 @@
+C:\Users\снежа\source\repos\CatGame\CatGame\bin\Debug\CatGame.exe.config
+C:\Users\снежа\source\repos\CatGame\CatGame\bin\Debug\CatGame.exe
+C:\Users\снежа\source\repos\CatGame\CatGame\bin\Debug\CatGame.pdb
+C:\Users\снежа\source\repos\CatGame\CatGame\obj\Debug\CatGame.csproj.AssemblyReference.cache
+C:\Users\снежа\source\repos\CatGame\CatGame\obj\Debug\CatGame.Properties.Resources.resources
+C:\Users\снежа\source\repos\CatGame\CatGame\obj\Debug\CatGame.csproj.GenerateResource.cache
+C:\Users\снежа\source\repos\CatGame\CatGame\obj\Debug\CatGame.csproj.CoreCompileInputs.cache
+C:\Users\снежа\source\repos\CatGame\CatGame\obj\Debug\CatGame.exe
+C:\Users\снежа\source\repos\CatGame\CatGame\obj\Debug\CatGame.pdb
+C:\Users\снежа\source\repos\CatGame\CatGame\obj\Debug\CatGame.Form1.resources
